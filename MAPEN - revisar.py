@@ -148,7 +148,7 @@ while True:
             print('          RELATÓRIO DETALHADO POR PERÍODO            ')
             print('=====================================================')
             
-            # Variáveis para acumular os totais (NOVO)
+            # variáveis acumuladoras do relatório 
             total_enviado = 0
             total_recebido = 0
             total_perdido = 0
